@@ -1,0 +1,1 @@
+During the Day 1 tasks, I learned the fundamentals of data cleaning, including the three main approaches to handling missing values. I also explored how to detect outliers, understood their common causes, and practiced data visualization using scatter plots and box plots.
