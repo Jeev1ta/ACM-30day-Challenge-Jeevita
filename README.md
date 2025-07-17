@@ -2,7 +2,7 @@
 
 ## 👤 Short Self-Intro
 
-Hi! I'm Jeevita, currently in Semester 3 of the Data Science and Artificial Intelligence program.
+#### Hi! I'm Jeevita, currently in Semester 3 of the Data Science and Artificial Intelligence program.
 ---
 
 ## 📘 Cycle Navigation
