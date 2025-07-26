@@ -1,8 +1,3 @@
-# Explanation Points:
-- Dimensionality reduction (SVD) helps with sparse data like TF-IDF by reducing thousands of features into fewer meaningful components.
-- SVD captures the most important directions of variance while preserving distances.
-- Clustering reveals hidden structure in the data even without knowing true labels — useful for unsupervised exploration.
-
 # SVD + PCA Breakdown – Phase 4 Summary
 ## Dataset: 20 Newsgroups
 ### Steps Performed:
@@ -17,3 +12,8 @@
 - Understood how SVD (a form of PCA) compresses sparse TF-IDF data while preserving semantic structure.
 - Gained insights into dimensionality reduction benefits, especially for sparse data like text.
 - Saw how clustering can reveal latent structure in unlabeled data and evaluated it using silhouette scores and visual comparisons.
+
+## Results
+- Dimensionality reduction (SVD) helps with sparse data like TF-IDF by reducing thousands of features into fewer meaningful components.
+- SVD captures the most important directions of variance while preserving distances.
+- Clustering reveals hidden structure in the data even without knowing true labels — useful for unsupervised exploration.
