@@ -14,3 +14,9 @@
 - Gained experience in evaluating model performance using metrics like F1-score and visual tools like Confusion Matrices to interpret errors.
 
 I worked on Tweet Sentiment Analysis using the Sentiment140 dataset, applying Natural Language Processing (NLP) techniques and machine learning. I learned how to clean and preprocess large-scale text data, convert it into meaningful numerical features using TF-IDF, and train models like Logistic Regression and Naive Bayes for classification. I also practiced evaluating model performance using accuracy, precision, recall, and F1-score. This deepened my understanding of how text data can be analyzed and modeled to extract sentiment and patterns in real-world social media content.
+
+
+## Write-up
+I used Logistic Regression because it’s fast, easy to use, and works well for text data like tweets.
+TF-IDF helped turn the tweets into numbers by giving more importance to unique words in each tweet. This made it easier for the model to learn which words are linked to positive, negative, or neutral feelings.
+A big challenge was cleaning the tweets, like removing links, usernames, and emojis. I fixed this using some Python code with regular expressions. Also, since the full dataset is huge, I worked with a smaller sample to save time while still getting good results.
